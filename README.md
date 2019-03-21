@@ -7,7 +7,7 @@ Tableau viz link - https://public.tableau.com/profile/chakradhar7357#!/vizhome/P
 * [About](#about)
 * [Technologies](#technologies)
 * [Conclusion](#conclusion)
-* [Contact](#contact)
+* [Author](#author)
 
 ## About
 Barclays Premier League (BPL) is an English professional league for men's football association clubs.It is contested by 20 clubs and operates on a system of promotion and relegation with the English Football League. Fantasy Premier League (FPL) is a game in which participants assemble an imaginary team of real-time footballers and score points based on those players actual statistical performance or their perceived contribution on the field of play. 
